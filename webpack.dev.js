@@ -8,7 +8,7 @@ const commonConfig = require('./webpack.common');
 module.exports = merge(
     commonConfig,
     {
-        devtool: 'eval-source-map',
+        devtool: 'source-map',
         devServer: {
             contentBase: './lib/static',
             inline: true,

@@ -66,6 +66,7 @@
     "react-hotkeys": "^2.0.0",
     "react-html-parser": "^2.0.2",
     "react-markdown": "^3.2.0",
+    "react-virtualized": "^9.22.3",
     "reapop": "2.1.0",
     "reapop-theme-wybo": "1.0.2",
     "reduce-reducers": "^1.0.4",
